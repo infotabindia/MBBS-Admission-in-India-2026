@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admission-overview/page": "/admission-overview",
+  "/college-categories/page": "/college-categories",
+  "/contact/page": "/contact",
+  "/counseling-process/page": "/counseling-process",
+  "/faqs/page": "/faqs",
+  "/favicon.ico/route": "/favicon.ico",
+  "/fees-guide/page": "/fees-guide",
+  "/page": "/"
+}
